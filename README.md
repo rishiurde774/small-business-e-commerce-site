@@ -1,6 +1,4 @@
-Creating proper documentation for a small-sized e-commerce website using Next.js and Node.js involves outlining the architecture, components, API endpoints, and any other relevant information. Below is a basic template for documentation. Adjust and expand it based on the specifics of your project.
 
----
 
 # Small size E-commerce - E-commerce Website Documentation
 
