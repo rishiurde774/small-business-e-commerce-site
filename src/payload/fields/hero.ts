@@ -33,6 +33,10 @@ export const hero: Field = {
           label: 'Low Impact',
           value: 'lowImpact',
         },
+        {
+          label: 'New Impact',
+          value: 'new Impact',
+        },
       ],
     },
     richText({
